@@ -3,14 +3,17 @@
 
 h1{
     color: white;
-    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-weight: bold;
 }
-
 
  body {
     background-color: #361999  ;
 }
 
-    
+ ul{
+     color: white;
+     font-family: 'Courier New', Courier, monospace;
+     text-align: left;
+ }   
