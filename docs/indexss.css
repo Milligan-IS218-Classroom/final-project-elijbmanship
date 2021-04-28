@@ -16,8 +16,8 @@ body{
     margin-left: 70px;
     margin-right: 70px;
 }
- div {
-    background: linear-gradient(to bottom, #361999 0%, #cc00ff 100%);
+ body {
+    background: linear-gradient( bottom, #361999 0%, #cc00ff 100%);
 }
 ul.pages{
     display: none;
