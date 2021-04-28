@@ -4,17 +4,11 @@
 h1{
     color: white;
     font-family: Georgia, Times, 'Times New Roman', serif;
-    text-align: center, top;
-    font-weight: bold;
-    
-}
-
-title{
-    color: white;
-    font-family:'Courier New', Courier, monospace;
     text-align: center;
-
+    font-weight: bold;
 }
+
+
  body {
     background-color: #361999  ;
 }
