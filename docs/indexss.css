@@ -8,7 +8,7 @@ h1{
 }
 
   html{
-    background: linear-gradient( bottom #361999, #AEA3D6 ) no-repeat  ;
+    background: linear-gradient( 180deg #361999 0%, #AEA3D6 100% ) no-repeat  ;
 }
 
  ul{
