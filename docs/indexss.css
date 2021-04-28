@@ -7,11 +7,11 @@ h1{
     text-align: center;
 }
 
-  html{
-    background: linear-gradient( 180deg #361999 0%, #AEA3D6 100% ) no-repeat  ;
+html{
+    background: linear-gradient(bottom #361999, #AEA3D6 ) no-repeat  ;
 }
 
- ul{
+ body{
      color: white;
      font-family: 'Courier New', Courier, monospace;
      text-align: left;
