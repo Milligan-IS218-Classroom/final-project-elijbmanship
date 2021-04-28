@@ -17,9 +17,12 @@ html{
      text-align: left;
      margin-right: 30px;
      margin-left: 30px;
-     font-size: 16px;
  }   
 img{
     height: 100px;
     width: 100px;
+}
+
+p{
+    font-size: larger;
 }
