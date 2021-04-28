@@ -17,7 +17,7 @@ body{
     margin-right: 70px;
 }
  body {
-    background: linear-gradient( bottom, #361999 0%, #cc00ff 100%);
+    background: linear-gradient( 180deg, #361999 0%, #cc00ff 100%);
 }
 ul.pages{
     display: none;
