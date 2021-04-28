@@ -17,5 +17,6 @@ h1{
      text-align: left;
  }   
 img{
-    size: 100px;
+    height: 100px;
+    width: 100px;
 }
