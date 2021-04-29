@@ -13,7 +13,11 @@ p{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-img{
+.png{
     height: 50px;
     width: 50px;
+}
+.jpg{
+    height: auto;
+    width: auto;
 }
