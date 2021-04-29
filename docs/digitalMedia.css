@@ -26,7 +26,7 @@ img{
     height: 50%;
     width: 50%;
     padding: auto;
-    border: 3px solid orchid;
+    border: 1px solid orchid;
 }
 body{
     font-family: 'Courier New', Courier, monospace;
