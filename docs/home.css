@@ -12,20 +12,27 @@ h1{
  body{
      color: white;
      font-family: 'Courier New', Courier, monospace;
-     text-align: left;
+     text-align: center;
      margin-right: 130px;
      margin-left: 130px;
  }
    html{  background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733)) no-repeat;
    }
-img{
+footer img{
     height: 50px;
     width: 50px;
     border: 1px solid orchid;
-
+}
+section img{
+    height: 350px;
+    width: 350px;
+    position:  center;
 }
 
 p{
     font-size: larger;
     text-align: justify;
+}
+footer{
+    text-align: left;
 }
