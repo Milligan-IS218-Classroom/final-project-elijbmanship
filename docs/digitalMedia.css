@@ -1,8 +1,5 @@
 @charset "utf-8";
 
-html{
-    background:#361999;
-}
 h1{
     color: white;
     font-family: 'Courier New', Courier, monospace;
@@ -32,6 +29,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color: white;
     font-size: medium;
+    background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733));
 }
 ul{
     text-align: center;

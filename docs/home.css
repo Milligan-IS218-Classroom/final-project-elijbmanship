@@ -7,9 +7,7 @@ h1{
     text-align: center;
 }
 
-html{
-    background:#361999;
-}
+
 
  body{
      color: white;
@@ -17,6 +15,7 @@ html{
      text-align: left;
      margin-right: 130px;
      margin-left: 130px;
+     background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733));
  }   
 img{
     height: 50px;
