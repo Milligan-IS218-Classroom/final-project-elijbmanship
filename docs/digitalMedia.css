@@ -22,3 +22,8 @@ img{
     width: 50%;
     padding: auto;
 }
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: medium;
+}
