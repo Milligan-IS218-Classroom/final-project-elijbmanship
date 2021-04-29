@@ -15,12 +15,14 @@ h1{
      text-align: left;
      margin-right: 130px;
      margin-left: 130px;
-     background: #361999
- }   
+ }
+   html{  background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733)) no-repeat;
+   }
 img{
     height: 50px;
     width: 50px;
     border: 1px solid orchid;
+
 }
 
 p{
