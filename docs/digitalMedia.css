@@ -3,7 +3,12 @@
 html{
     background:#361999;
 }
-body h1{
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
     color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
