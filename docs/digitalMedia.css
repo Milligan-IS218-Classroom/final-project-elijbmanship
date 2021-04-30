@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+footer img{
+    height: 50px;
+    width: 50px;
+}
+img{
+    height: 50%;
+    width: 50%;
+    padding: auto;
+    border: 1px solid orchid;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: medium;
+    background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733));
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}

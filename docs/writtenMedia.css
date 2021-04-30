@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+
+h1{
+color: white;
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+}
+
+
+img{
+    height: 50px;
+    width: 50px;
+    border: 1px solid orchid;
+}
+body{
+      color: white;
+    font-family:'Courier New', Courier, monospace;
+    text-align: left;
+    background: linear-gradient(to bottom,  #361999, rgba(170, 112, 218, 0.733));
+}
